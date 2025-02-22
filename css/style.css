@@ -144,6 +144,8 @@ select {
 }
 
 .header__wrapper-favourite-count,
+.hidden-header__wrapper-favourite-count,
+.hidden-header__wrapper-cart-count,
 .header__wrapper-cart-count {
 	position: absolute;
 	top: -13px;
@@ -720,7 +722,7 @@ select {
 
 .cart__modal,
 .favourite__modal {
-	width: 800px;
+	max-width: 800px;
 	height: 500px;
 	display: flex;
 	flex-direction: column;
