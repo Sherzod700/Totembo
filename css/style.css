@@ -723,6 +723,7 @@ select {
 .cart__modal,
 .favourite__modal {
 	max-width: 800px;
+	width: 100%;
 	height: 500px;
 	display: flex;
 	flex-direction: column;
