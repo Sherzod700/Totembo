@@ -689,7 +689,7 @@ select {
 	gap: 26px;
 }
 
-.footer__socials-link:target {
+.footer__socials-link {
 	color: var(--color-white);
 	
 }
