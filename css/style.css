@@ -689,8 +689,9 @@ select {
 	gap: 26px;
 }
 
-.footer__socials-link {
+.footer__socials-link:target {
 	color: var(--color-white);
+	
 }
 /* ---------- FOOTER END ---------- */
 

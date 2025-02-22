@@ -269,7 +269,7 @@ const languageArr = {
 	},
 	// FOOTER ADDRESS
 	footerAddress: {
-		en: 'St. Tong dahasi, Yangiyul city, Uzbekistan',
+		en: 'St. Dawn, Yangiyul city, Uzbekistan',
 		ru: 'Ул. Массив Заря, Янгиюль город, Узбекистан',
 		uz: "Ko'ch. Tong dahasi, Yangiyo'l shahar, O'zbekiston",
 	},
